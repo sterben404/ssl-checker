@@ -44,7 +44,7 @@ def proc(url):
 	except (urllib2.URLError,ssl.CertificateError,ssl.SSLError):
 		print('https://'+url+red+" --> HTTP"+reset)
 		with open('webhttp.txt','ab') as http:
-			http.write('https://'+url+'\n')
+			http.write('http://'+url+'\n')
 			http.close()
 	else:
 		print('https://'+url+green+" --> HTTPS"+reset)
