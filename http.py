@@ -1,5 +1,5 @@
 #python2.7
-import os,sys,re,time
+import os,sys,time
 import urllib2
 import requests
 import httplib
