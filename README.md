@@ -10,6 +10,7 @@ Module
 
 Usage
 > python2 (file.py) (listweb.txt)
+
 > python2 http.py list.txt
 
 My Blog : https://allinfocybers.blogspot.com/
