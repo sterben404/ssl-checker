@@ -1,6 +1,6 @@
 # Mass SSL Website Checker
 
-Requipments
+Requirments
 - Python 2.7
 - PIP Python
 
